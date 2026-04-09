@@ -10,4 +10,4 @@ Disallow: /cgi-bin/
 Allow: /wp-admin/admin-ajax.php
 
 # Sitemap
-Sitemap: https://domainkamu.com/sitemap.xml
+Sitemap: https://kimcilonly.github.io/pejuangpascol/sitemap.xml
