@@ -1,5 +1,5 @@
 <?php
-$sitemap = "https://domainkamu.com/sitemap.xml";
+$sitemap = "https://kimcilonly.github.io/pejuangpascol/sitemap.xml";
 
 $urls = [
     "https://www.google.com/ping?sitemap=".$sitemap,
