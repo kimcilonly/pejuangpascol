@@ -16,6 +16,6 @@ $content = "Konten ".$keywords[0]." sedang viral saat ini. Banyak pengguna menca
 
 echo "<h1>$title</h1>";
 echo "<p>$content</p>";
-echo '<a href="https://domainkamu.com">Kunjungi situs</a>';
+echo '<a href="https://kimcilonly.github.io/pejuangpascol">Kunjungi situs</a>';
 
 ?>
