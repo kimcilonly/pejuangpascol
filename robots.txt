@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Blok area sensitif
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+
+# Allow file penting
+Allow: /wp-admin/admin-ajax.php
+
+# Sitemap
+Sitemap: https://domainkamu.com/sitemap.xml
