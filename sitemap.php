@@ -1,7 +1,7 @@
 <?php
 header("Content-Type: application/xml; charset=utf-8");
 
-$base = "https://domainkamu.com";
+$base = "https://kimcilonly.github.io/pejuangpascol";
 
 // daftar URL (bisa kamu tambah)
 $urls = [
