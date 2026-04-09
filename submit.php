@@ -1,7 +1,7 @@
 <?php
 
-$url = "https://domainkamu.com/";
-$sitemap = "https://domainkamu.com/sitemap.xml";
+$url = "https://kimcilonly.github.io/pejuangpascol/";
+$sitemap = "https://kimcilonly.github.io/pejuangpascol/sitemap.xml";
 
 $engines = [
     "https://www.google.com/ping?sitemap=".$sitemap,
